@@ -84,7 +84,7 @@ https://master.dbw8z78piw1nu.amplifyapp.com/
 
 ## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - 2
 
-
+https://master.d1vid5xqqrcxyu.amplifyapp.com/
 
 ## COMANDO PARA CONFIGURAR EL CORREO Y USUARIO EN VISUAL STUDIO CODE
 
