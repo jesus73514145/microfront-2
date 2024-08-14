@@ -37,7 +37,7 @@ export default function Home() {
   };
   return (
     <>
-    <p>MICROFRONT 2</p>
+    <p>MICROFRONT 2 HOLA MUNDO</p>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
