@@ -69,7 +69,7 @@ git commit -m "Archivos iniciales" -m "Co-authored-by: AlbertoSoria1998 < albert
 
 QUITAR LOS ESPACIOS DEL CORREO
 
-git remote add origin 
+git remote add origin https://github.com/jesus73514145/microfront-2.git
 
 git push -u origin master
 
